@@ -1,4 +1,4 @@
-# 
+# ذكي Sublime Text أدوات لـ Mac OS | محدث Sublime Text أدوات لـ PC Windows. مع البحث الذكي و دعم Gitflow — مُحسَّن لأقصى أداء على جميع المنصات.
 
 
 
